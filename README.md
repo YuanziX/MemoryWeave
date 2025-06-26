@@ -17,7 +17,7 @@ The system allows you to provide a **system prompt** describing the event you ar
 
     Note: Screenshots for frontend are on the frontend repo itself
 
-Front-end [here](https://github.com/YuanziX/hackverse_frontend)
+Front-end [here](https://github.com/YuanziX/MemoryWeaveFrontend)
 
 ---
 
